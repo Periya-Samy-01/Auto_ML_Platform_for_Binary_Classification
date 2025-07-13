@@ -1,8 +1,4 @@
-Here's a complete `README.md` file you can upload to your GitHub repository to document your AutoML project:
 
----
-
-```markdown
 # 🧠 AutoML Web App – Binary Classification System
 
 This is a complete AutoML system for binary classification problems. It allows users to:
@@ -124,22 +120,4 @@ Feel free to fork this repo, enhance it, and open a pull request!
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
-## 🙌 Acknowledgements
-
-Thanks to all the open-source contributors of:
-
-* [FastAPI](https://fastapi.tiangolo.com/)
-* [Streamlit](https://streamlit.io/)
-* [Scikit-learn](https://scikit-learn.org/)
-* [XGBoost](https://xgboost.ai/)
-* [LightGBM](https://lightgbm.readthedocs.io/)
-* [CatBoost](https://catboost.ai/)
-
-```
-
----
-
-Let me know if you'd like to include a deployment guide or add screenshots in the README!
-```
